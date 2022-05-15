@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+
+  margin-top: 15px;
+  padding-top: 15px;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+.post {
+  background-color: lightgray;
+}
